@@ -1,0 +1,11 @@
+.container-video{
+    width: 80%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#my-video{
+    width: 50%;
+}
